@@ -600,7 +600,6 @@ public class Mylogin extends AppCompatActivity {
                 android.Manifest.permission.GET_ACCOUNTS,
                 android.Manifest.permission.RECEIVE_SMS,
                 android.Manifest.permission.CALL_PHONE,
-                android.Manifest.permission.READ_CONTACTS,
                 android.Manifest.permission.INTERNET
         };
 

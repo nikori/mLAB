@@ -1,12 +1,12 @@
 <component name="libraryTable">
   <library name="cachepot-1.1.0">
     <CLASSES>
-      <root url="file://$USER_HOME$/.android/build-cache/ab3a62d8cbbb4ef642822ee98dbea2d9e4d1bb04/output/res" />
-      <root url="jar://$USER_HOME$/.android/build-cache/ab3a62d8cbbb4ef642822ee98dbea2d9e4d1bb04/output/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.android/build-cache/f48ca730d9c60820b6f0108ec98f299b75e18958/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/f48ca730d9c60820b6f0108ec98f299b75e18958/output/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.kimkevin/cachepot/1.1.0/7aa9f3603c9b95ee25c0f1b7dbd9ca3059f493f6/cachepot-1.1.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../apps/gradle-3.1/caches/modules-2/files-2.1/com.github.kimkevin/cachepot/1.1.0/7aa9f3603c9b95ee25c0f1b7dbd9ca3059f493f6/cachepot-1.1.0-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

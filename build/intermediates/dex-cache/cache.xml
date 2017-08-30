@@ -3,12 +3,12 @@
 
     <item
         is-multidex="false"
-        jar="/home/kennedy/Desktop/ANDROID PROJECTS/MytabLayouts/app/libs/android-viewbadger.jar"
+        jar="C:\Users\HP\Documents\PROJECTS\mLab on 23rdjune-2017\MytabLayouts\app\libs\android-viewbadger.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="f1303b50d535716ca7601c5014357b8435658313">
-        <dex dex="/home/kennedy/Desktop/ANDROID PROJECTS/MytabLayouts/app/build/intermediates/pre-dexed/debug/android-viewbadger_21130c6529fa9e2dbf99bd64995e48d852e07819.jar" />
+        <dex dex="C:\Users\HP\Documents\PROJECTS\mLab on 23rdjune-2017\MytabLayouts\app\build\intermediates\pre-dexed\debug\android-viewbadger_afe431e83edd4f975b2895fdaa91473a71ca81cd.jar" />
     </item>
 
 </items>
